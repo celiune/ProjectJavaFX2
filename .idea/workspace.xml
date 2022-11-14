@@ -38,7 +38,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/celin/OneDrive - De Vinci/S7/Object Oriented Development/ProjectJavaFX2/src/main/Images",
+    "last_opened_file_path": "C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.31.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -57,7 +60,7 @@
       <updated>1668171819889</updated>
       <workItem from="1668171822528" duration="309000" />
       <workItem from="1668179478408" duration="12770000" />
-      <workItem from="1668368322966" duration="8908000" />
+      <workItem from="1668368322966" duration="9395000" />
     </task>
     <task id="LOCAL-00001" summary="Project JavaFX 2">
       <created>1668440243263</created>
@@ -66,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668440243263</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project JavaFX 2">
+      <created>1668440833708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668440833708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +85,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="03ebe944-8868-4f4a-9cbe-822fe1a07084">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="f099607e-3d58-4e71-b54e-1787b43da240">
           <value>
             <State>
               <option name="FILTERS">

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projectjavafx2.ClothesController">
+   <children>
+      <Button fx:id="btnProduct" layoutX="22.0" layoutY="24.0" mnemonicParsing="false" onAction="#onClickProduct" text="Product" />
+      <Label fx:id="label_list_clothes" layoutX="24.0" layoutY="66.0" text="List of clothes">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblClothes" layoutX="267.0" layoutY="34.0" text="Clothes">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <ListView fx:id="listViewclothes" layoutX="22.0" layoutY="100.0" prefHeight="200.0" prefWidth="200.0" />
+      <Label fx:id="lblName" layoutX="264.0" layoutY="75.0" text="Name" />
+      <Label fx:id="lblPrice" layoutX="264.0" layoutY="134.0" text="Price" />
+      <Label fx:id="lblNbItems" layoutX="265.0" layoutY="188.0" text="Number of items" />
+      <Label fx:id="lblSize" layoutX="264.0" layoutY="242.0" text="Size" />
+      <TextField fx:id="txtFieldName" layoutX="263.0" layoutY="102.0" />
+      <TextField fx:id="txtFrieldPrice" layoutX="264.0" layoutY="158.0" />
+      <TextField fx:id="txtFieldNbItems" layoutX="263.0" layoutY="211.0" />
+      <TextField fx:id="txtFieldSize" layoutX="264.0" layoutY="263.0" />
+      <Button fx:id="btnSell" layoutX="296.0" layoutY="316.0" mnemonicParsing="false" text="Sell" />
+      <Button fx:id="btnPurchase" layoutX="414.0" layoutY="316.0" mnemonicParsing="false" text="Purchase" />
+      <TextField fx:id="txtFieldDiscount" layoutX="461.0" layoutY="220.0" prefHeight="26.0" prefWidth="99.0" />
+      <Label fx:id="lblDiscount" layoutX="482.0" layoutY="193.0" text="Discount" />
+   </children>
+</AnchorPane>
